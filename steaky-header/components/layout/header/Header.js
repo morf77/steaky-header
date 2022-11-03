@@ -10,8 +10,6 @@ function Header (props) {
         }else{
             sizeSetter(false)
         }
-        console.log(sizeClass)
-
     }
     // if (typeof window !== "undefined"){
     //     window.addEventListener('scroll',scrollHandler)
